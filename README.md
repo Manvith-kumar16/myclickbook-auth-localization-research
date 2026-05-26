@@ -148,10 +148,3 @@ flowchart TD
 | **Database** | **PostgreSQL** | Structured relational models and atomic data safety. |
 
 ---
-
-## 7. Final Conclusion
-
-* **Firebase is the Optimal Choice:** Easiest, fastest, and most cost-effective solution for launching the MyClickBook MVP with robust phone OTP.
-* **Test Isolation is Crucial:** Mocking `react-i18next` ensures unit tests are predictable, clean, and run at maximum speed.
-* **Safety First:** Sensitive JWT access tokens should **never** be saved in plaintext `AsyncStorage`. Always use `expo-secure-store` to keep session tokens protected by hardware.
-* **Ready to Present:** This streamlined architecture enables high speed-to-market while keeping a clean, standardized development lifecycle.
